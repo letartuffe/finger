@@ -1,0 +1,2 @@
+serviceClass: com.st.finger.client.GreetingService
+path: 74D4F52F0667BFFE4169FA57B8754C2A.gwt.rpc
